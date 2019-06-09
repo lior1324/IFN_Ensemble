@@ -7,6 +7,8 @@ We gave examples in order to run:
 2. IFN with train csv and test csv
 3. run IFN forest
 4. IFN forest with train csv and test csv
-In oreder to change the hyper parameter of ifn or ifn forest you can check our functions in Main at src 
+In order to change the hyper parameter of ifn or ifn forest you can check our functions in Main at src
+The nominal input attributes at the datasets must have an addition "_nominal".
+For example: Gender -> Geneder_nominal.
 
 All rights reserved to Dror Simchoni and Lior Khoramian
